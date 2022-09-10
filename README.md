@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=panwarhimanshu&label=Profile%20views&color=0e75b6&style=flat" alt="panwarhimanshu" /> </p>
 
-<p align="left"> <a href="https://twitter.com/he_man_shu_Pawr" target="blank"><img src="https://img.shields.io/twitter/follow/dsdd?logo=twitter&style=for-the-badge" alt="he_man_shu_Pawr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/he_man_shu_Pawr" target="blank"><img src="https://img.shields.io/twitter/follow/he_man_shu_Pawr?logo=twitter&style=for-the-badge" alt="he_man_shu_Pawr" /></a> </p>
 
 - 🌱 I’m currently learning **React, cybersecurity**
 
