@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **panwarhimanshu4321@gmail.com**
 
-- 📄 Know about my experiences [1233](1233)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
